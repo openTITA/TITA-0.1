@@ -4,4 +4,4 @@
 
 .skp - sketchup file to test assembly of parts
 
-.dxf file for laser cutter fabrication – for basic table (750mm W x 500MM D x 850mm H)(largest table that can be easily cut on our laser cutter(while keeping # pieces to a minimum))
+.dxf - file for laser cutter fabrication – for basic table (750mm W x 500MM D x 850mm H)(largest table that can be easily cut on our laser cutter(while keeping # pieces to a minimum))
